@@ -131,10 +131,10 @@ body {
   .social-media ul {
   	display:inline-block ;
     position: fixed;
-  	top: 50%;
-    left:90%;
-    margin-right:0;
-    padding-right:0;
+  	top: 12%;
+    left:2%;
+    margin-left:0;
+    padding-left:0;
   	transform: translate(-50%,-50%);
   }
   .social-media ul li a {
@@ -150,10 +150,10 @@ body {
   .social-media ul {
   	display:inline-block ;
     position: fixed;
-  	top: 50%;
-    left:88%;
-    margin-right:0;
-    padding-right:0;
+  	top: 11%;
+    left:2%;
+    margin-left:0;
+    padding-left:0;
   	transform: translate(-50%,-50%);
   }
   .social-media ul li a {
@@ -168,10 +168,10 @@ body {
   .social-media ul {
   	display:inline-block ;
     position: fixed;
-  	top: 50%;
-    left:88%;
-    margin-right:0;
-    padding-right:0;
+  	top: 10%;
+    left:2%;
+    margin-left:0;
+    padding-left:0;
 
   }
   .social-media ul li a {
